@@ -51,12 +51,12 @@ public class coun : MonoBehaviour {
 	void OnTriggerEnter(Collider other)
 	{
 		other.gameObject.SetActive(false);
+		//this.gameObject.SetActive (false);
 		count++;
 		countText.text = "分數" + count.ToString();
 		if (count >= 2)
 		{
 			winText.text = "YOU WIN";
 		}
-		this.gameObject.SetActive (false);
 	}
 }
