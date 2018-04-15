@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\coun.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\disappear.cs">
     <Files>
-      <File FileName="Assets\Script\coun.cs" Line="45" Column="4" />
+      <File FileName="Assets\Script\coun.cs" Line="1" Column="1" />
       <File FileName="Assets\Script\disappear.cs" Line="19" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
